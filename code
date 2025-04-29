@@ -1,0 +1,9 @@
+git
+git status show our code tracked or untracked
+working directory = untracked code
+git add
+staging area = tracked code
+git commit -m 
+local area
+git push 
+remote repo
